@@ -96,16 +96,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoniYadav29&theme=tokyo-night"/>
 </p>
 
----
-
-<!-- ================= DEV QUOTE ================= -->
-## 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
-
----
 
 <!-- ================= CONNECT ================= -->
 ## 🌐 Connect With Me
@@ -128,54 +118,6 @@
 
 ---
 
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8D523D,100:C1856D&height=120&section=footer"/>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-## 🙋 About Me
-
-&nbsp;&nbsp;&nbsp;🚀 &nbsp;Began the journey with **Frontend Development** using HTML, CSS & JavaScript  
-&nbsp;&nbsp;&nbsp;💼 &nbsp;I work on **UI/UX development** and building responsive interfaces at **Prisma.ai**  
-&nbsp;&nbsp;&nbsp;🎓 &nbsp;Currently holding a **B.E. in Electronics & Telecommunication** — SFIT Mumbai · CGPA 8.0  
-&nbsp;&nbsp;&nbsp;🛠️ &nbsp;Hands-on with **Bootstrap, Tailwind CSS, GSAP, jQuery** and modern web tools  
-&nbsp;&nbsp;&nbsp;🎨 &nbsp;Ask me about **Figma → Code**, responsive design, GSAP animations, and UI performance  
-&nbsp;&nbsp;&nbsp;🤖 &nbsp;Interest in **Web Performance**, Accessibility, SEO, and scalable UI architecture  
-&nbsp;&nbsp;&nbsp;⚡ &nbsp;I only like perfection.
-
-<div align="right">
-
-**Follow Me on:**&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soniyadav29)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soni8693yadav@gmail.com)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soniii_0_2)
-
-</div>
-
----
-
 ## 💻 Languages & Tools I Have Placed My Hands On
 
 <div align="center">
@@ -195,22 +137,6 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
-
-</div>
-
----
-
-## ⚡ GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SoniYadav29&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0883e&icon_color=f0883e&text_color=e6edf3&ring_color=f0883e&count_private=true"/>
-&nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SoniYadav29&theme=github-dark-blue&hide_border=true&background=0d1117&ring=f0883e&fire=f0883e&currStreakLabel=f0883e&sideLabels=e6edf3&dates=8b949e"/>
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoniYadav29&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0883e&text_color=e6edf3"/>
 
 </div>
 
