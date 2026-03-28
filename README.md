@@ -43,7 +43,7 @@
 
 <td width="40%">
 
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="200"/>
+<img src="https://i.pinimg.com/736x/74/0a/4c/740a4c8f17b0274677b25aeba6efddb4.jpg" width="200"/>
 
 </td>
 </tr>
