@@ -119,38 +119,6 @@
 
 ---
 
-## 💖 Support Me
-
-<div align="center">
-
-If you find my work helpful, consider buying me a coffee ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/soniyadav)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SoniYadav29&theme=github-compact&bg_color=0d1117&color=f0883e&line=f0883e&point=ffffff&hide_border=true&area=true&area_color=f0883e"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SoniYadav29&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4"/>
-
-</div>
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=120&section=footer"/>
