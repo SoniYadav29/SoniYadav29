@@ -54,7 +54,7 @@
 <!-- ================= LANGUAGES & TOOLS ================= -->
 ## 🧰 Languages & Tools I Have Placed My Hands On
 
-<p align="center">
+<p align="end">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma,git,github,vscode" />
 </p>
 
@@ -77,13 +77,8 @@
 <!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoniYadav29&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoniYadav29&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoniYadav29&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
