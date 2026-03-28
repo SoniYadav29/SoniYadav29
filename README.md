@@ -1,44 +1,49 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════
-     GLASSMORPHIC BANNER
+     ANIMATED BANNER
+════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=200&section=header&text=Soni%20Yadav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20%7C%20Mumbai%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=17"/>
+
+<!-- ═══════════════════════════════════════
+     GREETING + TYPING
 ════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8D523D,100:C1856D&height=220&section=header&text=Soni%20Yadav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20•%20UI%2FUX%20•%20Mumbai&descAlignY=58&descSize=16"/>
+## Namaste 🙏 I'm Soni Yadav
 
----
-
-## ✨ Namaste 🙏 I'm Soni Yadav
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=C1856D&center=true&vCenter=true&width=700&lines=Frontend+Developer;Crafting+Modern+UI;Smooth+UX+%26+Animations;Figma+to+Code+to+Deploy" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=F0883E&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%9A%80;Building+pixel-perfect+UI+%E2%9C%A8;HTML+%C2%B7+CSS+%C2%B7+JS+%C2%B7+Bootstrap+%C2%B7+GSAP;Figma+%E2%86%92+Code+%E2%86%92+Deploy+%F0%9F%94%A5;Currently+%40+Prisma.ai+%F0%9F%92%BC" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SoniYadav29&color=C1856D&style=for-the-badge&label=PROFILE+VIEWS"/>
+![Profile Views](https://komarev.com/ghpvc/?username=SoniYadav29&color=orange&style=for-the-badge&label=PROFILE+VIEWS)
+
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+
+
+<!-- ================= ABOUT (2 COLUMN) ================= -->
+## 👩‍💻 About Me
 
 <table>
 <tr>
 <td width="60%">
 
-✨ Frontend Developer focused on building modern, responsive, and user-friendly web interfaces.
+✨ I’m a Frontend Developer passionate about building responsive, accessible, and visually engaging websites.
 
-💡 I specialize in clean UI, smooth interactions, and performance-driven design.
+💡 I focus on clean UI, smooth interactions, and performance-driven design.
 
-🚀 I turn ideas into real-world digital experiences with strong usability.
+🚀 Skilled in creating modern web interfaces with real-world usability.
 
-🎯 Always learning and improving to create better web solutions.
+🎯 Constantly learning and improving to build better digital experiences.
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=400&auto=format&fit=crop" width="260" style="border-radius:16px;"/>
+<img src="https://i.pinimg.com/1200x/79/e1/f4/79e1f458e2f34f656cfefef6678b9a83.jpg" width="300"/>
 
 </td>
 </tr>
@@ -46,7 +51,8 @@
 
 ---
 
-# 🧊 Languages & Tools
+<!-- ================= LANGUAGES & TOOLS ================= -->
+## 🧰 Languages & Tools I Have Placed My Hands On
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma,git,github,vscode" />
@@ -54,81 +60,40 @@
 
 ---
 
-# ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML-C1856D?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-8D523D?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-FBF9D1?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-C1856D?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/GSAP-8D523D?style=for-the-badge&logo=greensock&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-FBF9D1?style=for-the-badge&logo=figma&logoColor=black"/>
-
-</div>
-
----
-
-# 🧊 Featured Work (Glass Cards)
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔹 Verification System UI  
-Modern multi-step UI with clean flow and responsive design.
-
-</td>
-
-<td width="50%">
-
-### 🔹 Animated Portfolio  
-Smooth animations with interactive UI and modern layout.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔹 Friends Group Website  
-Multi-page website with custom layouts and storytelling UI.
-
-</td>
-
-<td width="50%">
-
-### 🔹 Music Player App  
-Interactive UI with playback controls and responsive design.
-
-</td>
-</tr>
-</table>
-
----
-
-# 📊 GitHub Stats
+<!-- ================= TECH STACK ================= -->
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoniYadav29&show_icons=true&theme=transparent&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoniYadav29&theme=transparent&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoniYadav29&layout=compact&theme=transparent&hide_border=true"/>
+<img src="https://img.shields.io/badge/Frontend-HTML%20|%20CSS%20|%20JS-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%20Framework-Bootstrap%20|%20Tailwind-brown?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tools-Git%20|%20GitHub%20|%20Figma-lightgrey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Libraries-GSAP%20|%20jQuery-yellow?style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 📈 Activity
+<!-- ================= GITHUB STATS ================= -->
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoniYadav29&theme=react-dark"/>
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoniYadav29&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-# 🌐 Connect
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoniYadav29&theme=tokyo-night"/>
+</p>
+
+
+<!-- ================= CONNECT ================= -->
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -148,10 +113,39 @@ Interactive UI with playback controls and responsive design.
 
 ---
 
+## 💻 Languages & Tools I Have Placed My Hands On
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8D523D,100:C1856D&height=120&section=footer"/>
-
-✨ Crafted with precision by **Soni Yadav**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05628?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 
 </div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=120&section=footer"/>
+
+**⚡ Crafted with passion by [Soni Yadav](https://github.com/SoniYadav29) · Mumbai, India**
+
+`soni8693yadav@gmail.com` &nbsp;·&nbsp; `+91 86930 15787`
+
+</div>
+
+
+
