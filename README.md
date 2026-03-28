@@ -24,21 +24,6 @@
 
 
 
-
-<!-- ================= HEADER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:8D523D,100:C1856D&height=250&section=header&text=Soni%20Yadav&fontSize=50&fontColor=ffffff" />
-</p>
-
-<h2 align="center">Frontend Developer • UI/UX Enthusiast</h2>
-
-<p align="center">
-  <a href="https://soniyadav29.github.io/Portfolio/">🌐 Portfolio</a> • 
-  📍 Mumbai, India
-</p>
-
----
-
 <!-- ================= ABOUT (2 COLUMN) ================= -->
 ## 👩‍💻 About Me
 
@@ -103,52 +88,6 @@
 
 ---
 
-<!-- ================= PROJECTS ================= -->
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔹 Verification System UI  
-✔ Multi-step verification flow  
-✔ Clean and structured UI  
-✔ Responsive design  
-
-</td>
-
-<td width="50%">
-
-### 🔹 Animated Portfolio Website  
-✔ GSAP animations  
-✔ Interactive UI  
-✔ Modern layout  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔹 Friends Group Website  
-✔ Multi-page design  
-✔ 10+ pages  
-✔ Custom layouts  
-
-</td>
-
-<td width="50%">
-
-### 🔹 Music Player App  
-✔ Play/Pause system  
-✔ Interactive UI  
-✔ Responsive  
-
-</td>
-</tr>
-</table>
-
----
 
 <!-- ================= ACTIVITY GRAPH ================= -->
 ## 📈 Activity Graph
