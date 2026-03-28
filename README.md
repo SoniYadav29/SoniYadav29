@@ -22,6 +22,200 @@
 
 ---
 
+
+
+
+<!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:8D523D,100:C1856D&height=250&section=header&text=Soni%20Yadav&fontSize=50&fontColor=ffffff" />
+</p>
+
+<h2 align="center">Frontend Developer • UI/UX Enthusiast</h2>
+
+<p align="center">
+  <a href="https://soniyadav29.github.io/Portfolio/">🌐 Portfolio</a> • 
+  📍 Mumbai, India
+</p>
+
+---
+
+<!-- ================= ABOUT (2 COLUMN) ================= -->
+## 👩‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+✨ I’m a Frontend Developer passionate about building responsive, accessible, and visually engaging websites.
+
+💡 I focus on clean UI, smooth interactions, and performance-driven design.
+
+🚀 Skilled in creating modern web interfaces with real-world usability.
+
+🎯 Constantly learning and improving to build better digital experiences.
+
+</td>
+
+<td width="40%">
+
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="200"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= LANGUAGES & TOOLS ================= -->
+## 🧰 Languages & Tools I Have Placed My Hands On
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma,git,github,vscode" />
+</p>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Frontend-HTML%20|%20CSS%20|%20JS-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%20Framework-Bootstrap%20|%20Tailwind-brown?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tools-Git%20|%20GitHub%20|%20Figma-lightgrey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Libraries-GSAP%20|%20jQuery-yellow?style=for-the-badge"/>
+
+</p>
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoniYadav29&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoniYadav29&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoniYadav29&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 Verification System UI  
+✔ Multi-step verification flow  
+✔ Clean and structured UI  
+✔ Responsive design  
+
+</td>
+
+<td width="50%">
+
+### 🔹 Animated Portfolio Website  
+✔ GSAP animations  
+✔ Interactive UI  
+✔ Modern layout  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔹 Friends Group Website  
+✔ Multi-page design  
+✔ 10+ pages  
+✔ Custom layouts  
+
+</td>
+
+<td width="50%">
+
+### 🔹 Music Player App  
+✔ Play/Pause system  
+✔ Interactive UI  
+✔ Responsive  
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoniYadav29&theme=tokyo-night"/>
+</p>
+
+---
+
+<!-- ================= DEV QUOTE ================= -->
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+---
+
+<!-- ================= CONNECT ================= -->
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/soniyadav29/">
+  <img src="https://img.shields.io/badge/LinkedIn-8D523D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:soni8693yadav@gmail.com">
+  <img src="https://img.shields.io/badge/Email-C1856D?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SoniYadav29">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8D523D,100:C1856D&height=120&section=footer"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 ## 🙋 About Me
 
 &nbsp;&nbsp;&nbsp;🚀 &nbsp;Began the journey with **Frontend Development** using HTML, CSS & JavaScript  
