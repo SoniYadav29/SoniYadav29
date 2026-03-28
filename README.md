@@ -1,94 +1,129 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Soni Yadav</h1>
-<h3 align="center">Frontend Developer | UI/UX Developer </h3>
-
-<!-- TYPING ANIMATION -->
+<!-- PREMIUM HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F77A00&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Focused;Building+Modern+Web+Experiences;Passionate+About+Clean+Design" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F77A00&height=200&section=header&text=Soni%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h1 align="center">Frontend Developer | UI/UX Enthusiast</h1>
+
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F77A00&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Interfaces;Passionate+About+UI%2FUX;Creating+Clean+%26+Responsive+Designs;Turning+Ideas+Into+Reality" />
 </p>
 
 ---
 
-<!-- PORTFOLIO -->
+<!-- QUICK INFO -->
 <p align="center">
-  🌐 <b>Portfolio:</b>  
-  <a href="https://soniyadav29.github.io/Portfolio/" target="_blank">
-    soniyadav29.github.io/Portfolio
-  </a>
+  🌐 <a href="https://soniyadav29.github.io/Portfolio/">Portfolio</a> • 
+  💼 UI Developer • 
+  📍 Mumbai, India
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-✨ Frontend Developer passionate about creating **responsive, modern, and user-friendly web interfaces**.  
-💼 Currently working on real-world UI systems and scalable web applications.  
-🎯 Focused on **clean design, performance, and smooth user experience**.  
+✨ I’m a **Frontend Developer** focused on crafting modern, responsive, and user-friendly web experiences.  
+💡 I specialize in **clean UI design, smooth interactions, and performance optimization**.  
+🎯 My goal is to build **scalable and impactful web applications**.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,figma,git,github" />
 
 </p>
 
 ---
 
-## 💼 Projects
+# 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🔹 Verification System UI  
-Multi-step verification interface with structured UI and smooth user flow.  
+✔ Multi-step form UI  
+✔ Clean UX flow  
+✔ Responsive design  
 
-### 🔹 Animated Portfolio Website  
-Modern portfolio with GSAP animations and responsive design.  
+</td>
 
-### 🔹 Smart Client Onboarding System  
-Dynamic multi-step form for collecting client requirements with validation.  
+<td width="50%">
 
-### 🔹 Music Player Web App  
-Interactive music player with dynamic controls and responsive UI.  
+### 🔹 Animated Portfolio  
+✔ GSAP animations  
+✔ Modern UI design  
+✔ Performance optimized  
 
-### 🔹 Temperature Converter  
-Real-time temperature conversion tool with clean UI.  
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔹 Client Onboarding System  
+✔ Dynamic form steps  
+✔ Validation logic  
+✔ Real-world use case  
+
+</td>
+
+<td width="50%">
+
+### 🔹 Music Player App  
+✔ Interactive controls  
+✔ Smooth UI  
+✔ Responsive layout  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoniYadav29&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SoniYadav29&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoniYadav29&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoniYadav29&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/YOUR-LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-F77A00?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/SoniYadav29" target="_blank">
+<a href="https://github.com/SoniYadav29">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-F77A00?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 
-💡 I enjoy turning ideas into clean, interactive, and visually appealing web experiences 🚀
+💡 I love turning ideas into **clean, interactive, and visually appealing web experiences** 🚀
+
+---
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F77A00&height=120&section=footer"/>
+</p>
