@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F77A00&height=200&section=header&text=Soni%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Frontend Developer | UI/UX Enthusiast</h1>
+<h1 align="center">Frontend Developer | UI/UX Developer</h1>
 
 <!-- TYPING EFFECT -->
 <p align="center">
@@ -33,55 +33,9 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,figma,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,Tailwind,react,cpanel,wordpress,figma,canva,git,github" />
 
 </p>
-
----
-
-# 💼 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔹 Verification System UI  
-✔ Multi-step form UI  
-✔ Clean UX flow  
-✔ Responsive design  
-
-</td>
-
-<td width="50%">
-
-### 🔹 Animated Portfolio  
-✔ GSAP animations  
-✔ Modern UI design  
-✔ Performance optimized  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔹 Client Onboarding System  
-✔ Dynamic form steps  
-✔ Validation logic  
-✔ Real-world use case  
-
-</td>
-
-<td width="50%">
-
-### 🔹 Music Player App  
-✔ Interactive controls  
-✔ Smooth UI  
-✔ Responsive layout  
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -101,7 +55,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINK">
+<a href="https://www.linkedin.com/in/soniyadav29/">
   <img src="https://img.shields.io/badge/LinkedIn-F77A00?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -109,7 +63,7 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:soni8693yadav@gmail.com">
   <img src="https://img.shields.io/badge/Email-F77A00?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
