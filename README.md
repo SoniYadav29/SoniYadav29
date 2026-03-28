@@ -83,41 +83,6 @@
 
 ---
 
-## 🧰 Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-%2388CE02?style=flat-square&logo=greensock&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=flat-square&logo=jquery&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05628?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive%20Design-%2300b4d8?style=flat-square&logo=googlechrome&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-%234285F4?style=flat-square&logo=google&logoColor=white)
-![Accessibility](https://img.shields.io/badge/Web%20A11y-%230052CC?style=flat-square&logo=accessible-icon&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
-
-</div>
-
----
-
-## ⭐ Top Contributed Repos &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💬 Random Dev Quote
-
-<div align="center">
-
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=SoniYadav29&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=f0883e&text_color=e6edf3"/>
-&nbsp;
-<img width="49%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
-</div>
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=120&section=footer"/>
