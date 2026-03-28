@@ -225,3 +225,182 @@
 `soni8693yadav@gmail.com` &nbsp;·&nbsp; `+91 86930 15787`
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8D523D,100:C1856D&height=220&section=header&text=Soni%20Yadav&fontSize=48&fontColor=ffffff" />
+</p>
+
+<h2 align="center">Frontend Developer • UI/UX Developer</h2>
+
+<p align="center">
+  <a href="https://soniyadav29.github.io/Portfolio/" target="_blank">🌐 Portfolio</a> • 
+  📍 Mumbai, India
+</p>
+
+---
+
+<!-- ================= ABOUT (2 COLUMN CLEAN) ================= -->
+## 👩‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+I am a Frontend Developer focused on building modern, responsive, and user-friendly web interfaces.
+
+I enjoy transforming ideas into clean and intuitive digital experiences with strong attention to UI/UX, performance, and accessibility.
+
+With hands-on experience in real-world projects, I aim to create scalable and impactful web solutions.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://images.unsplash.com/photo-1581091215367-59ab6b1d1d2b?q=80&w=400&auto=format&fit=crop" width="220" style="border-radius:12px;" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= SKILLS ================= -->
+## 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma,git,github,vscode" />
+</p>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+## ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-8D523D?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/UI%20Framework-Bootstrap%20%7C%20Tailwind-C1856D?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Libraries-GSAP%20%7C%20jQuery-FBF9D1?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tools-Git%20%7C%20GitHub%20%7C%20Figma-8D523D?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</p>
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoniYadav29&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoniYadav29&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoniYadav29&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%">
+
+### Verification System UI  
+Structured multi-step interface with clean UX and responsive layout.
+
+</td>
+
+<td width="50%">
+
+### Animated Portfolio  
+Modern portfolio with smooth animations and interactive UI.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Friends Group Website  
+Multi-page website with personalized layouts and content sections.
+
+</td>
+
+<td width="50%">
+
+### Music Player Web App  
+Interactive UI with playback controls and responsive design.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= ACTIVITY ================= -->
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoniYadav29&theme=react-dark"/>
+</p>
+
+---
+
+<!-- ================= QUOTE ================= -->
+## 💡 Thought
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+---
+
+<!-- ================= CONNECT ================= -->
+## 🌐 Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/soniyadav29/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-8D523D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:soni8693yadav@gmail.com">
+  <img src="https://img.shields.io/badge/Email-C1856D?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SoniYadav29">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8D523D,100:C1856D&height=120&section=footer"/>
+</p>
