@@ -41,7 +41,7 @@
 
 </td>
 
-<td width="40%">
+<td width="40%" align="center">
 
 <img src="https://i.pinimg.com/1200x/79/e1/f4/79e1f458e2f34f656cfefef6678b9a83.jpg" width="300"/>
 
@@ -54,7 +54,7 @@
 <!-- ================= LANGUAGES & TOOLS ================= -->
 ## 🧰 Languages & Tools I Have Placed My Hands On
 
-<p align="end">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma,git,github,vscode" />
 </p>
 
