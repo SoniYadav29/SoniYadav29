@@ -16,8 +16,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SoniYadav29&color=orange&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/SoniYadav29?style=for-the-badge&color=orange&label=FOLLOWERS)
+
 
 </div>
 
