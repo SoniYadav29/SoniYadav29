@@ -43,7 +43,7 @@
 
 <td width="40%">
 
-<img src="https://i.pinimg.com/736x/74/0a/4c/740a4c8f17b0274677b25aeba6efddb4.jpg" width="200"/>
+<img src="https://i.pinimg.com/1200x/79/e1/f4/79e1f458e2f34f656cfefef6678b9a83.jpg" width="300"/>
 
 </td>
 </tr>
