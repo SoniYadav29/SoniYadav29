@@ -26,7 +26,7 @@
 
 <br/>
 
-<img align="right" width="320" src="https://in.pinterest.com/pin/1032661389533618425" alt="coding gif" />
+<img align="right" width="320" src="https://i.pinimg.com/1200x/b8/c0/52/b8c05238d6bfc4cb8c0335a3fd72d95f.jpg" alt="coding gif" />
 
 ### 🚀 What I'm Doing
 
