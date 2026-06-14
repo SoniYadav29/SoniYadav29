@@ -26,7 +26,7 @@
 
 <br/>
 
-<img align="right" width="320" src="https://i.pinimg.com/1200x/b8/c0/52/b8c05238d6bfc4cb8c0335a3fd72d95f.jpg" alt="coding gif" />
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif" alt="coding gif" />
 
 ### 🚀 What I'm Doing
 
@@ -104,14 +104,6 @@ Responsive business website for IT services using HTML, CSS, Bootstrap, Font Awe
 
 <br/><br/>
 
-### 🎙️ Text To Speech  
-Text-to-speech web app created using HTML, Bootstrap and JavaScript.
-
-<a href="https://github.com/SoniYadav29/textToSpeech">
-  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
----
 
 <!-- WHAT I CAN BUILD -->
 <h2 align="center">💡 What I Can Build</h2>
